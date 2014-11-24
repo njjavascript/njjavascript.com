@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "boom": "^2.6.0",
     "handlebars": "^2.0.0",
     "hapi": "^7.5.2",
+    "insync": "^1.0.0",
     "joi": "^4.9.0",
     "mongodb": "^1.4.22"
   }
